@@ -3,9 +3,10 @@
 ![Badges](https://img.shields.io/badge/React-18-blue)
 ![Node](https://img.shields.io/badge/Node.js-18-green)
 ![Express](https://img.shields.io/badge/Express.js-black)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-orange)
 ![License](https://img.shields.io/badge/Licencia-MIT-yellow)
+
 
 ## 📌 Descripción General
 **Sistema de Gestión de Empleados** es una aplicación **Full Stack MERN** diseñada para administrar información de empleados de manera rápida, moderna y eficiente.
