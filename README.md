@@ -4,8 +4,9 @@
 ![Node](https://img.shields.io/badge/Node.js-18-green)
 ![Express](https://img.shields.io/badge/Express.js-black)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-orange)
+![Version](https://img.shields.io/badge/Versión-1.0.0-brightgreen)
 ![License](https://img.shields.io/badge/Licencia-MIT-yellow)
+
 
 
 ## 📌 Descripción General
